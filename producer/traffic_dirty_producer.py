@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 from faker import Faker
 import json
-import randon
+import random
 import time
 from datetime import datetime,timedelta 
 import pytz
